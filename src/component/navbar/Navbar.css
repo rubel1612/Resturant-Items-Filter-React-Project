@@ -1,0 +1,35 @@
+nav {
+    
+    height: 60px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: #faf8f8;
+    border-radius: 15px;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+   .navButton{
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background-color: #faf8f8;
+  }
+  
+  .navButton:hover {
+    background-color: #fcf7f7;
+  }
+
+
+  

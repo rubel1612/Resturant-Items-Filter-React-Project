@@ -1,0 +1,26 @@
+.card-container {
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    flex-wrap: wrap;
+  }
+
+  .card {
+      width: 350px;
+      padding: 10px;
+      border: 2px black;
+      background-color: #fafafa;
+      border-radius: 10px;
+      box-shadow: 2px 4px rgb(187, 197, 187);
+      margin-bottom: 20px;
+  }
+   .id{
+       border: 2px black;
+       border-radius: 50%;
+       font-weight: bold;
+   }
+  .image{
+     height: 200px;
+     width: 300px;
+  }
